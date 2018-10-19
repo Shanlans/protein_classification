@@ -1,0 +1,15 @@
+2018-10-15 16:04:34  * best acc: 0.00000000  Xception
+2018-10-16 20:50:55  * best acc: 0.00000000  Xception
+2018-10-16 21:38:28  * best acc: 0.00000000  Xception
+2018-10-16 21:39:06  * best acc: 0.00000000  Xception
+2018-10-16 21:46:47  * best acc: 0.00000000  Xception
+2018-10-16 21:49:16  * best acc: 0.00000000  Xception
+2018-10-16 21:53:47  * best acc: 0.00000000  Xception
+2018-10-16 21:55:19  * best acc: 0.00000000  Xception
+2018-10-16 21:56:44  * best acc: 0.00000000  Xception
+2018-10-16 21:59:36  * best acc: 0.00000000  Xception
+2018-10-16 22:00:24  * best acc: 0.00000000  Xception
+2018-10-16 22:01:12  * best acc: 0.00000000  Xception
+2018-10-16 22:03:05  * best acc: 0.00000000  Xception
+2018-10-16 22:13:10  * best acc: 0.00000000  Xception
+2018-10-17 09:18:29  * best acc: 0.00000000  Xception

@@ -1,0 +1,53 @@
+
+2018-10-14 20:43:32 Xception
+
+2018-10-15 08:23:49 Xception
+
+2018-10-15 08:42:28 Xception
+
+2018-10-15 08:46:57 Xception
+
+2018-10-15 08:50:13 Xception
+
+2018-10-15 09:13:12 Xception
+
+2018-10-15 09:29:58 Xception
+Epoch:  0, Precision: 19.28130866, Loss: 0.12881507
+Epoch:  1, Precision: 24.34969161, Loss: 0.11939589
+Epoch:  2, Precision: 27.32636095, Loss: 0.11498843
+Epoch:  3, Precision: 28.45266828, Loss: 0.11229487
+Epoch:  4, Precision: 31.24161974, Loss: 0.10856575
+Epoch:  5, Precision: 31.02708501, Loss: 0.10921513
+* best acc: 0.00000000  Xception
+
+2018-10-16 20:34:35 Xception
+* best acc: 0.00000000  Xception
+* best acc: 0.00000000  Xception
+* best acc: 0.00000000  Xception
+* best acc: 0.00000000  Xception
+* best acc: 0.00000000  Xception
+* best acc: 0.00000000  Xception
+* best acc: 0.00000000  Xception
+* best acc: 0.00000000  Xception
+* best acc: 0.00000000  Xception
+* best acc: 0.00000000  Xception
+* best acc: 0.00000000  Xception
+* best acc: 0.00000000  Xception
+* best acc: 0.00000000  Xception
+
+2018-10-16 22:30:54 Xception
+Epoch:  0, Precision: 20.32716546, Loss: 0.12455616
+Epoch:  1, Precision: 26.14641995, Loss: 0.11285613
+Epoch:  2, Precision: 28.58675248, Loss: 0.11095353
+Epoch:  3, Precision: 28.77447037, Loss: 0.10861813
+Epoch:  4, Precision: 30.78573344, Loss: 0.10485816
+Epoch:  5, Precision: 31.02708501, Loss: 0.10679153
+Epoch:  6, Precision: 32.04612497, Loss: 0.10161898
+Epoch:  7, Precision: 33.41378386, Loss: 0.10181776
+Epoch:  8, Precision: 32.87744704, Loss: 0.10069560
+Epoch:  9, Precision: 32.71654599, Loss: 0.10367719
+* best acc: 0.00000000  Xception
+Epoch: 10, Precision: 33.78921963, Loss: 0.10342314
+Epoch: 11, Precision: 35.53231429, Loss: 0.09907058
+Epoch: 12, Precision: 35.26414588, Loss: 0.09747792
+Epoch: 13, Precision: 35.26414588, Loss: 0.09974645
