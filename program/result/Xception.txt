@@ -51,3 +51,54 @@ Epoch: 10, Precision: 33.78921963, Loss: 0.10342314
 Epoch: 11, Precision: 35.53231429, Loss: 0.09907058
 Epoch: 12, Precision: 35.26414588, Loss: 0.09747792
 Epoch: 13, Precision: 35.26414588, Loss: 0.09974645
+
+2018-10-19 17:18:21 Xception
+* best acc: 0.00000000  Xception
+Epoch: 14, Precision: 35.88093323, Loss: 0.09876840
+Epoch: 15, Precision: 35.53231429, Loss: 0.09708936
+Epoch: 16, Precision: 35.21051220, Loss: 0.09682992
+Epoch: 17, Precision: 35.77366586, Loss: 0.09604873
+Epoch: 18, Precision: 38.34808260, Loss: 0.09418400
+Epoch: 19, Precision: 37.46312684, Loss: 0.09527138
+Epoch: 20, Precision: 36.25636900, Loss: 0.09743208
+Epoch: 21, Precision: 36.84633950, Loss: 0.09466173
+Epoch: 22, Precision: 38.32126575, Loss: 0.09511161
+Epoch: 23, Precision: 38.48216680, Loss: 0.09197921
+Epoch: 24, Precision: 39.98390990, Loss: 0.08856029
+Epoch: 25, Precision: 40.33252883, Loss: 0.08938941
+Epoch: 26, Precision: 41.08340038, Loss: 0.08845236
+Epoch: 27, Precision: 40.57388040, Loss: 0.08810398
+Epoch: 28, Precision: 40.81523197, Loss: 0.08800582
+Epoch: 29, Precision: 40.38616251, Loss: 0.08824881
+---------------Step into next stage----------------
+Epoch: 30, Precision: 41.35156879, Loss: 0.08793115
+Epoch: 31, Precision: 40.78841512, Loss: 0.08820362
+Epoch: 32, Precision: 41.05658353, Loss: 0.08685848
+Epoch: 33, Precision: 42.12925717, Loss: 0.08732066
+Epoch: 34, Precision: 42.37060874, Loss: 0.08680741
+Epoch: 35, Precision: 41.61973719, Loss: 0.08709778
+Epoch: 36, Precision: 42.15607401, Loss: 0.08590398
+Epoch: 37, Precision: 42.18289086, Loss: 0.08638537
+Epoch: 38, Precision: 41.64655404, Loss: 0.08604671
+Epoch: 39, Precision: 41.70018772, Loss: 0.08639684
+Epoch: 40, Precision: 42.15607401, Loss: 0.08632395
+Epoch: 41, Precision: 40.92249933, Loss: 0.08700660
+Epoch: 42, Precision: 41.88790560, Loss: 0.08655641
+Epoch: 43, Precision: 42.07562349, Loss: 0.08594579
+Epoch: 44, Precision: 41.67337088, Loss: 0.08665118
+Epoch: 45, Precision: 41.99517297, Loss: 0.08637168
+Epoch: 46, Precision: 41.96835613, Loss: 0.08686380
+Epoch: 47, Precision: 43.14829713, Loss: 0.08635410
+Epoch: 48, Precision: 41.48565299, Loss: 0.08576941
+Epoch: 49, Precision: 41.56610351, Loss: 0.08663242
+Epoch: 50, Precision: 43.12148029, Loss: 0.08598804
+Epoch: 51, Precision: 41.19066774, Loss: 0.08679225
+Epoch: 52, Precision: 42.31697506, Loss: 0.08608434
+Epoch: 53, Precision: 41.45883615, Loss: 0.08616339
+Epoch: 54, Precision: 42.15607401, Loss: 0.08607411
+Epoch: 55, Precision: 42.26334138, Loss: 0.08568577
+Epoch: 56, Precision: 42.82649504, Loss: 0.08584084
+Epoch: 57, Precision: 42.31697506, Loss: 0.08576562
+Epoch: 58, Precision: 42.34379190, Loss: 0.08601145
+Epoch: 59, Precision: 42.37060874, Loss: 0.08590604
+* best acc: 43.14829713  Xception

@@ -1,0 +1,14 @@
+
+2018-10-23 11:22:17 Xception_f1
+
+2018-10-23 11:34:55 Xception_f1
+Epoch:  0, Precision: 0.00000000, Loss: 0.88257432
+Epoch:  0, Precision: 0.10726736, Loss: 0.88903029
+---------------Step into next stage----------------
+
+2018-10-23 13:15:46 Xception_f1
+Epoch:  0, Precision: 4.29069456, Loss: 0.76082269
+---------------Step into next stage----------------
+Epoch:  1, Precision: 9.06409225, Loss: 0.73560736
+Epoch:  2, Precision: 9.06409225, Loss: 0.73063414
+---------------Step into next stage----------------

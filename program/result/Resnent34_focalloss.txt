@@ -1,0 +1,27 @@
+
+2018-11-01 18:46:27 Resnent34_focalloss
+Epoch:  0, Precision: 0.00000000, Loss: 1.42248561
+---------------Step into next stage----------------
+Epoch:  1, Precision: 0.02681684, Loss: 1.53164027
+Epoch:  2, Precision: 0.02681684, Loss: 1.64057339
+---------------Step into next stage----------------
+Epoch:  3, Precision: 0.00000000, Loss: 1.59759068
+Epoch:  4, Precision: 0.00000000, Loss: 1.59879762
+Epoch:  5, Precision: 0.00000000, Loss: 1.62389117
+Epoch:  6, Precision: 0.00000000, Loss: 1.56517887
+---------------Step into next stage----------------
+Epoch:  7, Precision: 0.02681684, Loss: 1.54729617
+Epoch:  8, Precision: 0.02681684, Loss: 1.53963052
+Epoch:  9, Precision: 0.02681684, Loss: 1.55737228
+Epoch: 10, Precision: 0.02681684, Loss: 1.55621971
+Epoch: 11, Precision: 0.02681684, Loss: 1.57239956
+Epoch: 12, Precision: 0.02681684, Loss: 1.57889495
+---------------Step into next stage----------------
+Epoch: 13, Precision: 0.02681684, Loss: 1.53358648
+Epoch: 14, Precision: 0.05363368, Loss: 1.58392148
+Epoch: 15, Precision: 0.02681684, Loss: 1.54322973
+Epoch: 16, Precision: 0.02681684, Loss: 1.51671196
+Epoch: 17, Precision: 0.02681684, Loss: 1.54482213
+Epoch: 18, Precision: 0.02681684, Loss: 1.54449523
+
+2018-11-02 09:05:40 Resnent34_focalloss
